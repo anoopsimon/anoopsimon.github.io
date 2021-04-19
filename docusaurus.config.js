@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Dinosaurs are cool..',
   url: 'https://github.com/automationio/automationio.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
