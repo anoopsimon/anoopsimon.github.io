@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/automationio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/automationio/static/js/main.ca64bcf2.chunk.js",
+    "main.js.map": "/automationio/static/js/main.ca64bcf2.chunk.js.map",
+    "runtime-main.js": "/automationio/static/js/runtime-main.851d0b6f.js",
+    "runtime-main.js.map": "/automationio/static/js/runtime-main.851d0b6f.js.map",
+    "static/js/2.63e0149c.chunk.js": "/automationio/static/js/2.63e0149c.chunk.js",
+    "static/js/2.63e0149c.chunk.js.map": "/automationio/static/js/2.63e0149c.chunk.js.map",
+    "static/js/3.7078776a.chunk.js": "/automationio/static/js/3.7078776a.chunk.js",
+    "static/js/3.7078776a.chunk.js.map": "/automationio/static/js/3.7078776a.chunk.js.map",
+    "index.html": "/automationio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/automationio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.63e0149c.chunk.js.LICENSE.txt": "/automationio/static/js/2.63e0149c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/automationio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.851d0b6f.js",
+    "static/js/2.63e0149c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ca64bcf2.chunk.js"
+  ]
+}
