@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool..',
+  title: 'Anoop Simon',
+  tagline: 'Test Automation',
   url: 'https://github.com/automationio/automationio.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'automationio.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Anoop Simon',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
